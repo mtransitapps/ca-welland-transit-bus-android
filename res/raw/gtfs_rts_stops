@@ -78,8 +78,6 @@
 3082,'3082','West Side Rd / Forks',42.945633,-79.264255
 3083,'3083','West Side Rd / Stone',42.921423,-79.265714
 3084,'3084','West Side Rd / Barr',42.910533,-79.265392
-4001,'4001','Niagara St / Seaway Mall',43.015692,-79.24969
-4002,'4002','Niagara St / Quaker Rd',43.023138,-79.249618
 4003,'4003','Woodlawn Rd / Trelawn Dr',43.012942,-79.256643
 4004,'4004','Woodlawn Rd / Gram Av',43.01291,-79.25236
 4005,'4005','Hellems Av / Young St',42.989537,-79.246693
@@ -318,12 +316,10 @@
 4251,'4251','Church St / Niagara St',42.996912,-79.252463
 9000000,'AQE','Aquador Dr / Endicott Tc',42.989958,-79.275252
 9000001,'BRC','Broadway / Clifford Av',42.974589,-79.263879
-9000002,'BRU','Brock University',43.119305,-79.248962
 9000003,'EMW','East Main St / Wellington St',42.993693,-79.226106
 9000004,'FIF','Fitch St / 1st Av',42.994556,-79.259899
 9000005,'FIN','1st Av / Norway Av',43.001877,-79.259909
 9000006,'FIO','Fitch St / Oak St',42.994541,-79.278545
-9000007,'GlndCmps','135 Taylor Rd N.O.T.L',43.152309,-79.166473
 9000008,'HAW','Hagar St / Wellington Rd',42.987972,-79.226081
 9000009,'HOW','Niagara Health System - Welland',42.979547,-79.251262
 9000010,'KIO','King St / Ontario Rd',42.974653,-79.251359
