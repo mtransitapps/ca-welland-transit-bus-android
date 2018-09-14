@@ -1,26 +1,30 @@
-101,0,'Downtown Terminal',1
-102,0,'St George / Roach',1
-201,0,'Downtown Terminal',2
-202,0,'Niagara College',2
-304,0,'Downtown Terminal',3
-303,0,'Niagara College',3
-401,0,'Downtown Terminal',4
-402,0,'Woodlawn / S Pelham',4
-504,0,'Community Living',5
-503,0,'Downtown Terminal',5
-603,0,'Downtown Terminal',6
-604,0,'Southworth / Gordon',6
-804,0,'Downtown Terminal',8
-803,0,'Niagara College',8
-904,0,'Downtown Terminal',9
-903,0,'Seaway Mall',9
-1004,0,'Downtown Terminal',10
-1003,0,'Niagara College',10
-1103,0,'Downtown Terminal',11
-1104,0,'Hospital',11
-10004,0,'Port Colborne',100
-10003,0,'Welland',100
-10104,0,'City Hall',101
-10103,0,'Colborne / McRae',101
-10204,0,'City Hall',102
-10203,0,'PC Mall',102
+2304,0,'Brock U',23
+2303,0,'Niagara College',23
+2504,0,'Port Colborne',25
+2503,0,'Welland',25
+3404,0,'NOTL',34
+3403,0,'Welland',34
+50101,0,'Downtown Terminal',501
+50102,0,'St George / Roach',501
+50201,0,'Downtown Terminal',502
+50202,0,'Niagara College',502
+50304,0,'Downtown Terminal',503
+50303,0,'Niagara College',503
+50401,0,'Downtown Terminal',504
+50402,0,'Woodlawn / S Pelham',504
+50504,0,'Community Living',505
+50503,0,'Downtown Terminal',505
+50603,0,'Downtown Terminal',506
+50604,0,'Southworth / Gordon',506
+50804,0,'Downtown Terminal',508
+50803,0,'Niagara College',508
+50904,0,'Downtown Terminal',509
+50903,0,'Seaway Mall',509
+51004,0,'Downtown Terminal',510
+51003,0,'Niagara College',510
+51103,0,'Downtown Terminal',511
+51104,0,'Hospital',511
+70104,0,'City Hall',701
+70103,0,'Colborne / McRae',701
+70204,0,'City Hall',702
+70203,0,'PC Mall',702
