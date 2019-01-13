@@ -1,4 +1,3 @@
-1319,'1319','East Main St / Wellington St',42.99357,-79.22712
 3001,'3001','Barrick Rd / Apollo',42.910328,-79.257409
 3002,'3002','Steele St / Northlan',42.906195,-79.260188
 3003,'3003','Elm St / Prosperity',42.906619,-79.254835
@@ -108,7 +107,6 @@
 4029,'4029','Riverside Dr / Waterview Ct',42.980732,-79.270917
 4030,'4030','287 Riverside Dr',42.97958,-79.271823
 4031,'4031','304 Riverside Dr',42.978593,-79.272538
-4032,'4032','Riverside Dr / Arthur St',42.976385,-79.273023
 4033,'4033','Broadway / Crowther Av',42.974517,-79.270512
 4034,'4034','Broadway / Kilgour Av',42.974533,-79.268255
 4035,'4035','Marshall Av / Martin St',42.972188,-79.266927
@@ -198,7 +196,6 @@
 4121,'4121','512 Woodlawn Rd',43.01291,-79.282282
 4122,'4122','740 South Pelham Rd',43.010287,-79.285397
 4123,'4123','650 South Pelham Rd',43.006083,-79.28538
-4124,'4124','Sobeys',43.00443,-79.28662
 4125,'4125','578 South Pelham Rd',43.002785,-79.28538
 4127,'4127','South Pelham Rd / Chantler Rd',42.997287,-79.28538
 4128,'4128','Fitch St / South Pelham Rd',42.994425,-79.284633
@@ -217,8 +214,6 @@
 4142,'4142','821 East Main St',42.993447,-79.23072
 4143,'4143','East Main St / St Andrews Av',42.99344,-79.228653
 4145,'4145','19 Wellington St',42.992493,-79.226047
-4146,'4146','670 Tanguay Av',42.989752,-79.225045
-4147,'4147','52 Promenade Richelieu',42.991658,-79.223543
 4148,'4148','187 Wellington St',42.986382,-79.226078
 4149,'4149','Wellington St / Lincoln St E',42.984348,-79.226078
 4150,'4150','Lincoln St E / Golden Bl E',42.984117,-79.228923
@@ -298,7 +293,6 @@
 4230,'4230','Ross St / McMaster Av',42.999337,-79.238722
 4231,'4231','Ross St / Evan St',42.996555,-79.24136
 4232,'4232','Niagara St / Mill St',42.992143,-79.252582
-4233,'4233','Niagara St / Elgin St',42.99609,-79.252651
 4235,'4235','Church St / Seeley St',42.996863,-79.251847
 4236,'4236','Church St / Aqueduct St',42.996943,-79.25011
 4237,'4237','Aqueduct St / Dufferin St',42.99882,-79.249705
@@ -317,7 +311,6 @@
 4250,'4250','Aqueduct St / Church St W',42.997405,-79.249762
 4251,'4251','Church St / Niagara St',42.996912,-79.252463
 9000000,'AQE','Aquador Dr / Endicott Tc',42.989958,-79.275252
-9000001,'BRC','Broadway / Clifford Av',42.974589,-79.263879
 9000002,'BRU','Brock University',43.119305,-79.248962
 9000003,'EMW','East Main St / Wellington St',42.993693,-79.226106
 9000004,'FIF','Fitch St / 1st Av',42.994556,-79.259899
@@ -336,7 +329,6 @@
 9000017,'PRW','Prince Charles Dr / Wilson Rd',43.00154,-79.27007
 9000018,'SewayMal','Seaway Mall',43.015388,-79.248792
 9000019,'SGR','St George St / Roach Av',42.969738,-79.271448
-9000020,'SPM','South Pelham Mkt Plz',43.004247,-79.286592
 9000021,'THB','Thorold Rd / Bridlewood Dr',43.003745,-79.27758
 9000022,'THN','Thorold Rd / Niagara St',43.003768,-79.252925
 9000023,'Welland','Welland Bus Terminal',42.992504,-79.246506
@@ -346,4 +338,3 @@
 9000027,'WPC','Welland Pelham Community Living',42.978593,-79.231692
 9000028,'WWA','Welland Walmart',43.014568,-79.229458
 9000029,'LIP','Lincoln Plz',42.984852,-79.238001
-9000030,'XXXX','Seaway Mall - Back Entrance',43.014986,-79.246
