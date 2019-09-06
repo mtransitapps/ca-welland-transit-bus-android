@@ -5,7 +5,7 @@ Welland Transit Bus for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from April 28, 2019 to January 4, 2020.
+Schedule from September 1, 2019 to January 4, 2020.
 ----------
 Full description:
 This app adds Welland Transit buses information to MonTransit.
