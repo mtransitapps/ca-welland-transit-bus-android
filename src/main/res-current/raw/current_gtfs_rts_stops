@@ -169,7 +169,7 @@
 3910,'4118','Clare Av / 644 Clare Av',43.005645,-79.280198
 3911,'4119','Clare Av / Vanjo Dr',43.007712,-79.280198
 3912,'4121','Woodlawn Rd / 519 Woodlawn Rd',43.012892,-79.282289
-3913,'4122','South Pelham / 740 S Pelham Rd',43.010462,-79.28542
+3913,'4122','South Pelham / 761 S Pelham Rd',43.010462,-79.28542
 3914,'4123','South Pelham Rd / Family Service',43.006083,-79.285397
 3915,'4125','South Pelham Rd / 578 S Pelham',43.002817,-79.28538
 3916,'4126','South Pelham Rd / Maple Pk',42.999638,-79.28538
@@ -237,7 +237,7 @@
 3980,'4199','Ontario Rd / Southworth St',42.974675,-79.235758
 3981,'4200','Ontario Rd / 1046 Ontario Rd',42.974675,-79.233365
 3982,'4201','Ontario Rd / Morwood Av',42.974675,-79.231013
-3983,'4202','Ontario Rd / Hendershot Av',42.974675,-79.228658
+3983,'4202','Ontario Rd / Hendershot Av',42.974669,-79.228831
 3984,'4203','Ontario Rd / Charles Av',42.974675,-79.227015
 3985,'4204','Memorial Pk Dr / Ontario Rd',42.975002,-79.225585
 3986,'4205','Memorial Pk',42.977735,-79.225617
@@ -286,7 +286,10 @@
 4030,'4256','Riverside Dr / Moose Lodge',42.979612,-79.271855
 4033,'2515','Killally St W / Stee',42.891649,-79.260317
 4049,'4159','Southworth St / 115 Southworth S',42.979087,-79.235948
+4059,'3051','Main St E / Wellington St',42.901347,-79.239761
+4060,'3057','Wellington St / John St',42.898329,-79.240297
 4061,'4078','Willson Rd / Westwood Cr',42.997492,-79.27009
 4062,'4257','East Main St + City Hall',42.992063,-79.248921
 4063,'4258','Niagara St + Elizabeth St',42.997837,-79.252725
 4064,'4259','Niagara St + Birch St',43.002304,-79.252824
+4074,'4260','Wright St + Sauer Av',42.971051,-79.239098
