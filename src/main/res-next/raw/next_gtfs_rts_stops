@@ -1,0 +1,222 @@
+2689,'WLC','Niagara College - Welland Campus',43.014897,-79.262253
+3733,'WEL','Welland Bus Term',42.993506,-79.245809
+3811,'4003','Woodlawn Rd & Trelawn Dr',43.012985,-79.256681
+3812,'4004','Woodlawn Rd & Gram Av',43.01291,-79.252392
+3814,'4008','Niagara St & Northtown Business',43.019418,-79.249762
+3815,'4009','Quaker Rd & Niagara St',43.022179,-79.250488
+3816,'4010','1st Av & Woodland Dr',43.020403,-79.260013
+3817,'4011','1st Av & College Pk Dr',43.018313,-79.260037
+3818,'4013','Hellems Av & 237 Hellems Av',42.987432,-79.246677
+3819,'4014','Hellems Av & 345 Hellems Av',42.985038,-79.246677
+3820,'4015','Lincoln St & Kent St',42.984085,-79.24849
+3821,'4016','Lincoln St & Welland Community W',42.98364,-79.252917
+3822,'4017','Lincoln St & Denistoun St',42.985087,-79.256707
+3823,'4018','Denistoun St & 200 Denistoun St',42.987607,-79.256627
+3824,'4020','Maple Av & Pupos',42.989307,-79.259632
+3825,'4022','Oakland Av & Wade St',42.987257,-79.261475
+3826,'4023','Oakland Av & Drew St',42.985793,-79.261498
+3827,'4024','Oakland Av & Lincoln St',42.984142,-79.261498
+3828,'4025','Elmwood Av & Lincoln St',42.983577,-79.262508
+3829,'4026','Windsor St & Mayfair Dr',42.981742,-79.264042
+3830,'4027','Windsor St & Joanne Ct',42.981535,-79.266292
+3831,'4028','Windsor St & Riverside Dr',42.98209,-79.269558
+3832,'4031','Riverside Dr & Arthur St',42.9764,-79.273023
+3833,'4033','Broadway & Bosnich Av',42.974533,-79.270512
+3834,'4034','Broadway & Kilgour Av',42.97454,-79.268255
+3835,'4035','Marshall Av & Martin St',42.972188,-79.266912
+3836,'4037','Roach Av & Martin St',42.971537,-79.271513
+3837,'4038','Roach Av & St George St',42.9699,-79.271457
+3838,'4039','St George St & Marshall Av',42.969708,-79.267492
+3839,'4040','St George St & Santone Av',42.971083,-79.265155
+3840,'4041','Clifford Av & St George St',42.972427,-79.263875
+3841,'4042','Clifford Av & Broadway',42.97447,-79.263938
+3842,'4043','Broadway & St George St',42.974588,-79.261022
+3843,'4044','Ontario Rd & Iron St',42.974588,-79.253187
+3844,'4045','King St & 7th St',42.975613,-79.251215
+3846,'4047','King St & 4th St',42.979603,-79.25116
+3847,'4048','King St & 2nd St',42.981582,-79.251178
+3848,'4049','King St & Albert St',42.985842,-79.250985
+3849,'4050','King St & 211 King St',42.987506,-79.251017
+3850,'4051','Welland Museum',42.989224,-79.250993
+3851,'4052','Division St & King St',42.990595,-79.250698
+3852,'4053','Division St & Cross St',42.99096,-79.24891
+3853,'4054','West Main St & Albina St',42.991365,-79.254553
+3854,'4055','West Main St & Denistoun St',42.990994,-79.257544
+3855,'4056','Prince Charles Dr & Fitch St',42.994123,-79.262346
+3856,'4057','Prince Charles Dr & Medical Arts',42.998033,-79.265925
+3857,'4058','Prince Charles Dr N & Willsonway',43.002283,-79.269717
+3858,'4059','Thorold Rd & Food Basics',43.003882,-79.272275
+3859,'4060','Bridlewood Dr & 10 Bridlewood Dr',43.00431,-79.277592
+3860,'4061','Bridlewood Dr & Chapel Hl',43.006672,-79.2776
+3861,'4063','Bridlewood Dr & Graystone Cr (N)',43.009833,-79.279055
+3862,'4064','Clare Av & Woodlawn Rd',43.012202,-79.280215
+3863,'4065','Woodlawn Rd & Silvan Dr',43.012845,-79.27765
+3864,'4066','Northwood Dr & Silverstar Ct',43.01383,-79.276896
+3865,'4067','Northwood Dr & Larchwood Cir',43.015118,-79.276837
+3866,'4068','Northwood Dr & 112 Northwood Dr',43.017027,-79.276432
+3867,'4069','Eastwood Dr & Rice Rd',43.016407,-79.270328
+3868,'4070','Chippawayan Tr & Niagara College',43.014205,-79.267293
+3869,'4072','Rice Rd & McCrae Rd',43.009612,-79.270233
+3870,'4073','Rice Rd & Hatter Av',43.00714,-79.27021
+3871,'4075','Rice Rd & Thorold Rd',43.004207,-79.270185
+3872,'4077','Willson Rd & Loyalist Dr',42.99972,-79.270102
+3873,'4079','Willson Rd & Fitch St',42.994905,-79.270084
+3874,'4080','Fitch St & 235 Fitch St',42.994465,-79.268293
+3875,'4081','Fitch St Plz',42.994488,-79.266729
+3876,'4082','West Main St & Denistoun St',42.991048,-79.256175
+3877,'4083','West Main St & Albina St',42.991365,-79.25406
+3878,'4085','Fitch St & Prince Court & Prince',42.994537,-79.261388
+3879,'4086','1st Av & Chippawa Pk',42.996372,-79.259807
+3880,'4087','1st Av & Laughlin Av',42.999925,-79.259807
+3881,'4088','1st Av & Norway Av',43.001775,-79.259807
+3882,'4089','Thorold Rd & 190 Thorold Rd',43.00385,-79.26227
+3883,'4090','Centennial Dr & Thorold Rd',43.004645,-79.265783
+3884,'4091','Centennial Dr & Cola St',43.00656,-79.265752
+3885,'4092','Centennial Dr & Rolling Acres Dr',43.008188,-79.265973
+3886,'4093','Champlain Av & Woodington Pl',43.00962,-79.265545
+3887,'4094','Champlain Av & Wiltshire Bl',43.011742,-79.265743
+3888,'4095','Woodlawn Rd & Niagara College',43.013013,-79.265035
+3889,'4096','1st Av & Cabot St',43.011595,-79.260037
+3890,'4097','1st Av & Rolling Acres Dr',43.010017,-79.260092
+3891,'4098','1st Av & Trent Av',43.008093,-79.2601
+3892,'4099','1st Av & Lindel Cr',43.006647,-79.260108
+3893,'4100','1st Av & Thorold Rd',43.004135,-79.260028
+3894,'4101','Thorold Rd & Edgar St',43.003723,-79.255768
+3895,'4102','Niagara St & Pkwy',43.002213,-79.25294
+3896,'4103','Niagara St & Elmview St',42.998525,-79.252837
+3897,'4105','Niagara St & Mill St',42.993033,-79.25271
+3898,'4106','Fitch St & Welland Plz',42.994623,-79.266068
+3899,'4107','Fitch St & Westdale Dr',42.994608,-79.268293
+3900,'4108','Fitch St & Holy Name S',42.9946,-79.27168
+3901,'4109','Fitch St & 380 Fitch St',42.9946,-79.275082
+3902,'4110','Fitch St & Oak St',42.994583,-79.27845
+3903,'4111','Oak St & Heather Ct',42.99603,-79.278308
+3904,'4112','Leonard Av & Martha Ct',42.997015,-79.278903
+3905,'4113','Leonard Av & Maureen Av',42.998573,-79.278927
+3906,'4114','Leonard Av & Dexter Dr',43.000782,-79.278935
+3907,'4115','Leonard Av & Maple Pk Dr',43.002555,-79.278927
+3908,'4116','Niagara St & Merritt St',42.995648,-79.252748
+3909,'4117','Clare Av & Thorold Rd',43.003333,-79.28012
+3910,'4118','Clare Av & 644 Clare Av',43.005645,-79.280198
+3911,'4119','Clare Av & Vanjo Dr',43.007712,-79.280198
+3912,'4121','Woodlawn Rd & 519 Woodlawn Rd',43.012892,-79.282289
+3913,'4122','South Pelham & 761 S Pelham Rd',43.010462,-79.28542
+3914,'4123','South Pelham Rd & Family Service',43.006083,-79.285397
+3915,'4125','South Pelham Rd & 578 S Pelham',43.002817,-79.28538
+3916,'4126','South Pelham Rd & Maple Pk',42.999638,-79.28538
+3917,'4127','South Pelham Rd & Chantler Rd',42.997302,-79.285388
+3918,'4128','Fitch St & South Pelham Rd',42.99444,-79.284657
+3919,'4129','Fitch St & Clare Av',42.99444,-79.28062
+3920,'4130','Fitch St & Oak St',42.994465,-79.278085
+3921,'4131','Fitch St & Wellbrook Bl',42.994488,-79.276273
+3922,'4132','Aquador Dr & Acadia Ct',42.99398,-79.275358
+3923,'4133','Calla Tr South & Aquador Dr',42.990905,-79.275217
+3924,'4134','Endicott Tr & Winter Dr',42.989863,-79.272077
+3925,'4135','Endicott Tr & Willison Rd',42.989855,-79.270282
+3926,'4136','Endicott Tr & Colbeck Dr',42.989195,-79.266355
+3927,'4137','Colbeck Dr & Diffin St',42.990157,-79.264552
+3928,'4138','Colbeck Dr & Riverview Dr',42.99185,-79.261736
+3929,'4139','East Main St & 411 East Main St',42.993472,-79.239057
+3930,'4140','East Main St & 489 East Main St',42.993472,-79.23548
+3931,'4141','East Main St & 707 East Main St',42.993447,-79.232603
+3932,'4142','East Main St & 821 East Main St',42.993447,-79.230695
+3933,'4143','East Main St & 939 East Main St',42.993447,-79.2287
+3934,'4145','Wellington St & Promenade Richel',42.991685,-79.226301
+3935,'4146','Wellington St & Tanguay Av',42.989813,-79.226157
+3936,'4147','Wellington St & 183 Wellington S',42.986462,-79.226093
+3937,'4148','Wellington St & 233 Wellington S',42.984387,-79.226093
+3938,'4149','Lincoln St & 591 Lincoln St',42.984165,-79.228963
+3939,'4150','Empress Av & 58 Empress Av',42.981558,-79.231005
+3940,'4152','Empress Av & 90 Empress Av',42.980097,-79.230942
+3941,'4153','Sutherland Av & Community Care',42.97861,-79.231545
+3942,'4154','Sutherland Av & 506 Sutherland A',42.97861,-79.234852
+3943,'4155','Simpson Av & 365 Simpson Av',42.979078,-79.238063
+3944,'4157','MacInnis Av & Morningstar Av',42.977012,-79.238405
+3945,'4158','Morningstar Av & 386 Morningstar',42.976805,-79.236982
+3946,'4161','Southworth St & 73 Southworth St',42.980732,-79.235948
+3947,'4162','Southworth St & Lewis St',42.98256,-79.23594
+3948,'4163','Lincoln St & 300 Lincoln St',42.984094,-79.239399
+3949,'4164','Dunkirk Rd & 7 Dunkirk Rd',42.983832,-79.241877
+3950,'4165','Dunkirk Rd & 119 Dunkirk Rd',42.980715,-79.241742
+3951,'4166','McNaughton Rd & 6 McNaughton Rd',42.978912,-79.242695
+3952,'4167','McNaughton Rd & 96 McNaughton Rd',42.976385,-79.242608
+3953,'4168','Nelles Rd & 92 Bishops Rd',42.976425,-79.243825
+3954,'4169','Plymouth Rd & 263 Plymouth Rd',42.977935,-79.24609
+3955,'4170','Plymouth Rd & 165 Plymouth Rd',42.979333,-79.246217
+3956,'4171','Plymouth Rd & 120 Plymouth Rd',42.980732,-79.246343
+3957,'4172','Burgar St & 294 Burgar St',42.984768,-79.243308
+3958,'4175','King St & 60 King St',42.990203,-79.251073
+3959,'4176','King St & 211 King St',42.9873,-79.251082
+3960,'4177','King St & Albert St',42.985993,-79.251215
+3961,'4178','King St & Rex Hotel',42.984633,-79.251223
+3962,'4179','King St & Labs',42.981915,-79.251335
+3963,'4180','King St & 4th St',42.97938,-79.251358
+3964,'4181','King St & 6th St',42.977275,-79.251382
+3965,'4182','King St & 7th St',42.975558,-79.251382
+3966,'4183','Ontario Rd & Beatrice St',42.974596,-79.245025
+3967,'4184','Ontario Rd & Commercial St',42.974609,-79.242524
+3968,'4185','Ontario Rd & Deere St',42.97426,-79.240113
+3969,'4186','Orchard Av & Wright St',42.972797,-79.239108
+3970,'4187','Harriet Av & McCabe Av',42.96838,-79.238209
+3971,'4189','Wright St & McCabe Av',42.96874,-79.23904
+3974,'4193','McCabe Av & Southworth St',42.968358,-79.235868
+3975,'4194','McCabe Av & Hildred S',42.96862,-79.231832
+3976,'4195','Hildred St & Sauer Av',42.970853,-79.231863
+3977,'4196','Sauer Av & McLaughlin St',42.97102,-79.23304
+3978,'4197','Southworth St & Sauer Av',42.971028,-79.235997
+3979,'4198','Southworth St & Orchard Av',42.97307,-79.23614
+3980,'4199','Ontario Rd & Southworth St',42.974675,-79.235758
+3981,'4200','Ontario Rd & 1046 Ontario Rd',42.974675,-79.233365
+3982,'4201','Ontario Rd & Morwood Av',42.974675,-79.231013
+3983,'4202','Ontario Rd & Hendershot Av',42.974669,-79.228831
+3984,'4203','Ontario Rd & Charles Av',42.974675,-79.227015
+3985,'4204','Memorial Pk Dr & Ontario Rd',42.975002,-79.225585
+3986,'4205','Memorial Pk',42.977735,-79.225617
+3987,'4206','Memorial Pk Dr & Daisy St',42.98229,-79.225657
+3988,'4207','Wellington St & Lincoln St',42.984458,-79.225975
+3989,'4208','Eastdale SS',42.986603,-79.225997
+3990,'4209','Hagar St & Wellington St',42.988035,-79.226555
+3991,'4210','Hagar St & Golden Blvd E',42.987896,-79.229785
+3992,'4211','Hagar St & Lyons Av',42.987881,-79.232008
+3993,'4212','Hagar St & Wallace Av S',42.987872,-79.233693
+3994,'4213','Hagar St & Crowland Av',42.987866,-79.235759
+3995,'4214','Hagar St & Duncan St',42.987863,-79.237944
+3996,'4215','Hagar St & Empire St',42.987847,-79.239765
+3997,'4216','Hagar St & Employment Options',42.987806,-79.241878
+3998,'4217','Burgar St & Hagar St',42.987492,-79.243338
+3999,'4218','Burger St & Burgar St Pk',42.989823,-79.243403
+4000,'4219','Ross St & Evan St',42.994617,-79.24138
+4001,'4220','Ross St & McMaster Av',42.996375,-79.241431
+4002,'4221','Ross St & Bruce St',42.999277,-79.238751
+4003,'4222','River Rd & 426 River Rd',43.004069,-79.23817
+4004,'4223','River Rd & 570 River Rd',43.008348,-79.235489
+4006,'4225','Rona',43.014848,-79.229868
+4008,'4227','River Rd & Woodlawn Rd',43.010852,-79.234312
+4009,'4228','River Rd & 570 River Rd (W)',43.008835,-79.235371
+4010,'4229','River Rd & Almond St',43.002438,-79.239149
+4011,'4230','River Rd & Bruce St',42.999981,-79.240938
+4012,'4231','River Rd & McMaster Av',42.99743,-79.243046
+4013,'4232','Niagara St & Mill St',42.992597,-79.252598
+4014,'4233','Niagara St & Elgin St',42.995935,-79.252678
+4015,'4241','Niagara St & Roger Dr',43.00675,-79.25197
+4016,'4242','Niagara St & Aqueduct St',43.008277,-79.25054
+4017,'4243','Niagara St + Zehrs',43.017432,-79.251168
+4018,'4244','Niagara St & Abbey Rd',43.010295,-79.250023
+4019,'4245','Niagara St & Aqueduct St (W)',43.008483,-79.250658
+4020,'4246','Niagara St & Roger Dr',43.006503,-79.252312
+4021,'4247','Thorold Rd W & Douglas Av',43.00373,-79.251993
+4022,'4248','Aqueduct St & Notre Dame',43.00133,-79.249817
+4023,'4249','Aqueduct St & 128 Aqueduct St',42.99909,-79.249825
+4024,'4250','Aqueduct St & 56 Aqueduct St',42.997302,-79.249784
+4025,'4251','Church St & Niagara St',42.99696,-79.252527
+4026,'4252','East Main St & 284 East Main St',42.993249,-79.24175
+4027,'4253','Plymouth Rd & 35 Plymouth Rd',42.982917,-79.24655
+4028,'4254','Downs Dr & Cooper Rd',43.003049,-79.237541
+4029,'4255','River Rd & Jean Vanier',43.01132,-79.234082
+4030,'4256','Riverside Dr & Moose Lodge',42.979612,-79.271855
+4049,'4159','Southworth St & 115 Southworth S',42.979087,-79.235948
+4061,'4078','Willson Rd & Westwood Cr',42.997492,-79.27009
+4062,'4257','East Main St + City Hall',42.992063,-79.248921
+4063,'4258','Niagara St + Elizabeth St',42.997837,-79.252725
+4064,'4259','Niagara St + Birch St',43.002304,-79.252824
+4074,'4260','Wright St + Sauer Av',42.971051,-79.239098
