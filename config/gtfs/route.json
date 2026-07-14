@@ -1,0 +1,74 @@
+{
+    "keep_routes": [
+        {
+            "route_short_name_regex": "^5\\d{2}$",
+            "comment": "keep only 3-digit routes starting w/ 5"
+        },
+        {
+            "route_short_name": "751",
+            "comment": "include Fort Erie"
+        }
+    ],
+    "exclude_routes": [
+        {
+            "route_short_name_regex": "^[12346789]\\d*$",
+            "comment": "keep only start w/ 5"
+        },
+        {
+            "route_short_name_regex": "^5\\d$",
+            "comment": "keep only 3-digit routes starting w/ 5"
+        }
+    ],
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": true,
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "((^|\\W)([\\w])\\.(\\W|$))",
+            "replacement": "$2$3$4"
+        },
+        {
+            "regex": "((^|\\W)([\\w]+)\\.(\\W|$))",
+            "replacement": "$2$3$4"
+        }
+    ],
+    "direction_finder_enabled": true,
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [],
+    "use_stop_code_for_stop_id": false,
+    "stop_name_cleaners": [
+        {
+            "regex": "(^(flag stop - )+)",
+            "ignore_case": true
+        },
+        {
+            "regex": "((^|\\W)(aven|avenu)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Avenue$4"
+        },
+        {
+            "regex": "((^|\\W)(driv)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Drive$4"
+        },
+        {
+            "regex": "((^|\\W)(stree|stre)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Street$4"
+        },
+        {
+            "regex": "((^|\\W)([\\w])\\.(\\W|$))",
+            "replacement": "$2$3$4"
+        },
+        {
+            "regex": "((^|\\W)([\\w]+)\\.(\\W|$))",
+            "replacement": "$2$3$4"
+        },
+        {
+            "regex": "(([&/\\-])[\\W]*$)",
+            "ignore_case": true
+        }
+    ],
+    "stop_headsign_cleanup_regex": "^\\d+ ",
+    "stop_headsign_cleanup_regex_comment": "starts w/ RSN"
+}
