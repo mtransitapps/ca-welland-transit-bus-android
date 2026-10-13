@@ -11,12 +11,8 @@
     ],
     "exclude_routes": [
         {
-            "route_short_name_regex": "^[12346789]\\d*$",
-            "comment": "keep only start w/ 5"
-        },
-        {
-            "route_short_name_regex": "^5\\d$",
-            "comment": "keep only 3-digit routes starting w/ 5"
+            "route_short_name_regex": "^([^5]\\d{2}|\\d{2})$",
+            "comment": "keep only 3-digit routes not starting w/ 5"
         }
     ],
     "default_route_id_enabled": true,
@@ -30,6 +26,49 @@
         {
             "regex": "((^|\\W)([\\w]+)\\.(\\W|$))",
             "replacement": "$2$3$4"
+        }
+    ],
+    "route_colors_ignored": [
+        "053747",
+        "042935"
+    ],
+    "route_colors_comment": "From https://nrtransit.ca/routes/welland/",
+    "route_colors": [
+        {
+            "route_short_name": "501",
+            "color": "FF0000"
+        },
+        {
+            "route_short_name": "502",
+            "color": "4A452A"
+        },
+        {
+            "route_short_name": "503",
+            "color": "93CDDD"
+        },
+        {
+            "route_short_name": "504",
+            "color": "604A7B"
+        },
+        {
+            "route_short_name": "505",
+            "color": "B3A2C7"
+        },
+        {
+            "route_short_name": "506",
+            "color": "93CDDD"
+        },
+        {
+            "route_short_name": "508",
+            "color": "943734"
+        },
+        {
+            "route_short_name": "509",
+            "color": "548ED5"
+        },
+        {
+            "route_short_name": "751",
+            "color": "2E8B57"
         }
     ],
     "direction_finder_enabled": true,
