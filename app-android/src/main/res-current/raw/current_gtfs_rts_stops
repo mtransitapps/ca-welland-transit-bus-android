@@ -1,6 +1,4 @@
 2670,'10071','Seaway Mall',43.01535,-79.24873,2,1543197
-2689,'WLC','Niagara College - Welland Campus',43.01499,-79.26227,1,1543237
-3733,'WEL','Welland Bus Terminal',42.99288,-79.24625,1,1573828
 3811,'4003','Woodlawn Rd + Trelawn Dr',43.01291,-79.25649,2,1574725
 3812,'4004','Woodlawn Rd + Gram Av',43.01288,-79.25221,2,1574726
 3814,'4008','870 Niagara St',43.01941,-79.24969,1,1574728
@@ -132,7 +130,7 @@
 3946,'4161','Southworth St + 73 Southworth St',42.98072,-79.23593,2,1575784
 3947,'4162','Southworth St + Lewis St',42.98255,-79.23594,2,1575785
 3948,'4163','Lincoln St + 300 Lincoln St',42.98417,-79.23932,2,1575786
-3949,'4164','Dunkirk Rd + 7 Dunkirk Rd',42.98339,-79.24191,2,1575787
+3949,'4164','Dunkirk Rd + Achilles Av',42.98339,-79.24191,2,1575787
 3950,'4165','Dunkirk Rd + 119 Dunkirk Rd',42.98070,-79.24180,2,1575809
 3951,'4166','McNaughton Rd + 6 McNaughton Rd',42.97891,-79.24272,2,1575810
 3952,'4167','McNaughton Rd + 96 McNaughton Rd',42.97639,-79.24264,2,1575811
@@ -250,3 +248,5 @@
 4295,'7031','Niagara Health - Fort Erie',42.91298,-78.92337,2,1599002
 4296,'7032','Garrison Rd + Spears Rd',42.90514,-78.95200,2,1599003
 4297,'7033','Garrison Rd + Crescent Rd',42.90493,-78.96146,2,1599004
+4365,'WEL','Welland Bus Terminal',42.99288,-79.24625,1,1599870
+4366,'WLC','Niagara College - Welland Campus',43.01499,-79.26226,1,1599871
